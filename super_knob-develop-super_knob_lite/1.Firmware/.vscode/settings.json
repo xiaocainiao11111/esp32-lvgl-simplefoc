@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.md": "markdown",
+        "lv_demo_music.h": "c",
+        "arduino.h": "c",
+        "gui_super_knob.h": "c",
+        "lv_log.h": "c",
+        "lv_conf_internal.h": "c"
+    }
+}
